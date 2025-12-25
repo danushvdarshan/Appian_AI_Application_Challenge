@@ -1,0 +1,33 @@
+Document Title: Internal Standard Operating Procedure – Claims Processing
+Department: Claims Operations
+Last Updated: March 2024
+
+--------------------------------------------------
+Section 1: General Guidelines
+--------------------------------------------------
+Claims agents must review each case carefully to ensure all regulatory
+and internal requirements are met prior to approval.
+
+--------------------------------------------------
+Section 1.1: Standard Review Timeline
+--------------------------------------------------
+All standard claims should be reviewed within five (5) business days
+from the date the case enters the Review stage.
+
+--------------------------------------------------
+Section 2: Risk-Based Escalation
+--------------------------------------------------
+Claims involving high-risk categories, regulatory exposure, or incomplete
+documentation must be escalated to a senior reviewer.
+
+--------------------------------------------------
+Section 3: State-Specific Handling
+--------------------------------------------------
+Agents must follow additional state-level rules where applicable. State-
+specific requirements override general SOP guidance when conflicts arise.
+
+--------------------------------------------------
+Section 5: Documentation Standards
+--------------------------------------------------
+All decisions must be documented in the case record with references to
+the applicable policy or regulation.

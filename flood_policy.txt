@@ -1,0 +1,40 @@
+Document Title: FEMA National Flood Insurance Program (NFIP) – Claims Guidance
+Version: 2024.1
+Effective Date: January 1, 2024
+
+--------------------------------------------------
+Section 1: Overview
+--------------------------------------------------
+The National Flood Insurance Program (NFIP) provides insurance coverage
+to property owners for flood-related damages. Claims must be filed in
+accordance with federal and state-specific requirements.
+
+--------------------------------------------------
+Section 2: Covered Flood Events
+--------------------------------------------------
+Flooding is defined as a general and temporary condition of partial or
+complete inundation of normally dry land areas due to overflow of inland
+or tidal waters.
+
+--------------------------------------------------
+Section 4: Claims Submission Requirements
+--------------------------------------------------
+
+4.1 Initial Notification  
+Policyholders must notify their insurer as soon as reasonably possible
+after a flood event has occurred.
+
+4.2 Proof of Loss Requirement (Florida Specific)  
+For flood insurance claims filed in the state of Florida, the policyholder
+must submit a signed and sworn Proof of Loss within thirty (30) days of
+the date of loss. Failure to comply may result in claim denial.
+
+4.3 Documentation  
+Supporting documentation may include photographs, repair estimates,
+and contractor invoices.
+
+--------------------------------------------------
+Section 6: Compliance and Audits
+--------------------------------------------------
+All flood claims are subject to post-payment audits to ensure compliance
+with federal regulations and internal policy guidelines.
